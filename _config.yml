@@ -1,4 +1,3 @@
 name: Smruti Naik
 markdown: kramdown
-theme: minima
-permalink: /blog/:2020/:03/:25/:Smruti-Naik-site-launched
+theme: jekyll-theme-minimal
